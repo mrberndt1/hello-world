@@ -1,2 +1,3 @@
 # hello-world
 my first repository with GitHub
+My name is Dave that stands for "Devastating All Variety of Earthlings". We will be seeing each other soon...
